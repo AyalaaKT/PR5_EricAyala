@@ -1,4 +1,4 @@
-# PR5_EricAyala
+# PR5_PD_EricAyala
 
 ## PRACTICA 5:  Buses de comunicación I (introducción y I2c) 
 
@@ -164,5 +164,7 @@ Para poder llevar a cabo el código y hacerlo funcionar, hemos tenido que instal
     ```
     - Por último, también saldrán mensajes de error si no se puede encontrar el sensor AHTX0
 
-    Imagen: 
+    Montaje: 
+   ![montaje](https://github.com/AyalaaKT/PR5_EricAyala/assets/162033821/efea1132-683a-48ab-b962-7b98e238b75a)
+
     
